@@ -1,2 +1,5 @@
 # pullreq_test2
-こっちが本物
+master :yabatest
+edit :yabakonish
+20181216　マスタ編集
+紛らわしい、、、
